@@ -5,7 +5,7 @@ Aunque el titulo de la asignatura lleva a confusion, el curso esta orientado a p
 
 El curso utiliza [NbGrader](https://github.com/jupyter/nbgrader) para gestionar la creacion, asignacion, recogida y correccion de las tareas aunque los documentos en el presente repositorio no contienen los tests implementados para facilitar la autocorreccion de los ejercicios.
 
-Para ver las distintas lecciones planteadas se puede consultar el [Indice]().
+Para ver las distintas lecciones planteadas se puede consultar el [Indice](https://github.com/ecabreragranado/CursoDOO/blob/master/index.ipynb).
 
 Todos estos documentos se hacen publicos por si pueden ser de utilidad en otros contextos docentes o para cualquier otra persona interesada. Si se observa algun fallo, errata o se desea hacer alguna sugerencia se puede abrir un *issue* en este repositorio.
 
